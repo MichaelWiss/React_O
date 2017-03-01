@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MichaelWiss/React_O/issues"
   },
-  "homepage": "https://github.com/MichaelWiss/React_O#readme"
+  "homepage": "https://github.com/MichaelWiss/React_O#readme",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.0"
+  }
 }
